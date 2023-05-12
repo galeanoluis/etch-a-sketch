@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(150, 105, 64);
+}
+h1 {
+    font-family: monospace;
+    font-weight: bold;
+    color: white;
+}
+#canvas {
+    background-color: white;
+    width: 600px;
+    height: 600px;
+}
